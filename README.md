@@ -74,7 +74,7 @@ Use **Inter**.
 
 ### Engines
 1. Baseline status engine
-2. Deadline urgency score (`0–30` on track, `31–60` caution, `61–100` aggressive required)
+2. Deadline urgency score (`0-30` on track, `31-60` caution, `61-100` aggressive required)
 3. Projection engine
 4. Adherence score (weighted daily score out of 100)
 5. Rule-based protocol recommendation engine
